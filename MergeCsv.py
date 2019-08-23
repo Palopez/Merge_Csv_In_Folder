@@ -1,7 +1,7 @@
 import glob
 #Modify
 #place the route of the folder where are the csv files
-directory = "C:\yourRoute\FolderContainingTheCsvFiles 
+directory = "C:\yourRoute\FolderContainingTheCsvFiles"
 #Name of the merged csv files
 name = "merged.csv"
 #place the route of destiny to the merged csv
